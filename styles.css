@@ -48,8 +48,9 @@
   src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf) format('truetype');
 }
 
-/* here are the Custom Variables */
 
+
+/* here are the Custom Variables */
 :root {
   --color-primary:#7380ec;
   --color-danger: #ff7782;
